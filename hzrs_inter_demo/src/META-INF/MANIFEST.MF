@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Class-Path: activation.jar axis.jar bcpkix-jdk15on-1.51.jar bcprov-jdk
+ 15on-1.51.jar commons-beanutils-1.7.0.jar commons-collections-3.1.jar
+  commons-discovery-0.2.jar commons-io-2.4.jar commons-lang-2.5.jar co
+ mmons-logging.jar ezmorph-1.0.3.jar httpclient-4.4.1.jar httpcore-4.4
+ .1.jar javax.wsdl_1.6.2.v201012040545.jar jaxrpc.jar json.jar json-li
+ b-2.4-jdk15.jar morph-1.1.1.jar org.apache.commons.logging_1.1.1.v201
+ 101211721.jar saaj.jar
+Main-Class: test.Test
+
